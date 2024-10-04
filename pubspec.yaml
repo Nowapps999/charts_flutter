@@ -7,7 +7,7 @@ environment:
 
 dependencies:
   charts_common:
-    path: ../../packages/charts_common
+    path: ./charts_common
   collection: ^1.14.5
   flutter:
     sdk: flutter
